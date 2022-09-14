@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">SoptStudy</string>
     <string name="roll">Roll</string>
-    <string name="aleks_haecky">Aleks Haecky</string>
+    <string name="name">Aleks</string>
     <string name="yellow_star">yellow_star</string>
     <string name="bio" >질문하신 자기소개서 예시에 대해 도움을 드리고자 합니다.
 \n많은 취준생분들이 자유양식 자기소개서 작성을 어렵게 생각합니다.
