@@ -1,19 +1,9 @@
 <resources>
-    <string name="app_name">SoptStudy</string>
-    <string name="roll">Roll</string>
-    <string name="name">Aleks</string>
-    <string name="yellow_star">yellow_star</string>
-    <string name="bio" >질문하신 자기소개서 예시에 대해 도움을 드리고자 합니다.
-\n많은 취준생분들이 자유양식 자기소개서 작성을 어렵게 생각합니다.
-\n각 기업에서 제공하는 자소서 문항이 정해진 양식을 오히려 편하게 느낄 수 있습니다.
-\n그저 그 질문 문항에 맞는 내용을 작성하면 되니까 말입니다.
-\n여기서 자유자기소개서함은 특정한 형식에 구애받지 않고 자신이 원하는 자기소개서의 서식을 골라서 작성하라는 의미로 생각하면 되겠습니다.
-\n개성은 살려주되, 자유자기소개서의 일반적인 트렌드는 따라가 준다면 자율성과 대중성을 모두 만족시켜 줄 수 있을 것입니다.
-\n자유양식 자기소개서를 골랐다면 작성또한 아주 중요합니다.
-\n기본적으로 성장과정, 성격의 장단점, 지원동기, 입사후포부 등의 내용이 자연스레 이어지게 들어가야 합니다.
-\n본인을 가장 잘 어필 할 수 있도록 제목과 소제목을 넣어가며 수많은 자기소개서를 읽는 인사담당자의 눈에 띌 수 있도록 해야 합니다.
-\n합격하는 자기소개서는 분명 따로 있습니다.
-\n마지막으로 자유자기소개서 작성을 위해 실제로 합격한 각 기업/직무별 합격자기소개서 남겨드리니 참고하시어 본인만의 명품 자기소개서를 만들어 보시기 바랍니다 :)\n\n</string>
-    <string name="what_is_your_nickname">What is you nickName?</string>
-    <string name="done">Done</string>
+    <string name="app_name">Dessert Pusher</string>
+    <string name="dollar_sign">$</string>
+    <string name="zero">0</string>
+    <string name="dessert_sold">Desserts Sold</string>
+    <string name="share_text">I\'ve clicked %1$d Desserts for a total of %2$d$ #AndroidDessertClicker</string>
+    <string name="share">Share</string>
+    <string name="sharing_not_available">Sharing Not Available</string>
 </resources>
