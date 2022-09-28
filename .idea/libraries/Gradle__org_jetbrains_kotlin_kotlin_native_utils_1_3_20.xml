@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlin:kotlin-native-utils:1.3.20">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/1.3.20/c2ede1571d53c4d3d61ceb2d469a0a4e20b54d72/kotlin-native-utils-1.3.20.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/1.3.20/3ef4da3a474f5e8dc4bf5fc983cde3743a189329/kotlin-native-utils-1.3.20-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-native-utils/1.3.20/6c155c656d158c858e9ff79c101e16561e558700/kotlin-native-utils-1.3.20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
